@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek A Nair</h1>
 <h3 align="center">A passionate Ethical Hacker and Java developer from India</h3>
 
-<img align="right" alt="Coding" width="400"
+<img align="right" alt="Coding" width="400" height="400"
         src="![Uploading IMG_4439.JPG…]()
 ">
         
