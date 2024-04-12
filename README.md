@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AbhishekNair1289?tab=repositories](https://github.com/AbhishekNair1289?tab=repositories)
+- 👨‍💻 All of my projects are available at [AbhishekNair1289](https://github.com/AbhishekNair1289?tab=repositories)
 
 - 💬 Ask me about **Cyber Security, Java**
 
