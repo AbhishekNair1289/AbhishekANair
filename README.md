@@ -5,19 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthybaby&label=Profile%20views&color=0e75b6&style=flat" alt="keerthybaby" /> </p>
 
-- 🔭 I’m currently working on **Social-Media-App**
+- 🔭 I’m currently working on **Secure Online Banking System**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **HTML, CSS & JS **
 
 - 👯 I’m looking to collaborate on **projects**
 
-- 💬 Ask me about **React, Java**
+- 💬 Ask me about **Ethical Hacking, Java**
 
-- 📫 How to reach me **keerthybaby025@gmail.com**
+- 📫 How to reach me **abhisheknair0925@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/keerthy-baby-56b176222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keerthy-baby-56b176222/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhishekanair1289198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekanair1289198/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
